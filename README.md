@@ -8,3 +8,7 @@ This repository includes two *diffractive-deep-optical-neural-networks* (D2NNs) 
 
 - **Training**: Deep learning with NPCC loss and Angular Spectrum Propagation
 - **Fabrication**: Femtosecond-laser two-photon polymerization (TPP)
+
+#### Reference
+
+https://github.com/awsomecat/Diffractive-Deep-Neural-Network
