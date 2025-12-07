@@ -1,6 +1,6 @@
 # Diffractive-deep-optical-neural-network-D2NN
 
-This repository includes two *diffractive-deep-optical-neural-networks* (D2NNs) trained in TensorFlow and PyTorch, along with the workflow and scripts for generating femtosecond-laser fabrication files.
+This repository includes two *diffractive-deep-optical-neural-networks* (D2NNs) trained in TensorFlow and PyTorch, along with the scripts for generating femtosecond-laser fabrication files.
 
 <td><img src="https://cdn.jsdelivr.net/gh/DelineTu/Pictures/202512061224912.png" width="800" /></td>
 
