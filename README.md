@@ -3,7 +3,6 @@
 This repository includes two *diffractive-deep-optical-neural-networks* (D2NNs) trained in TensorFlow and PyTorch, along with the scripts for generating femtosecond-laser fabrication files.
 
 <td><img src="https://cdn.jsdelivr.net/gh/DelineTu/Pictures/202512061224912.png" width="800" /></td>
-<td><img src="https://github.com/user-attachments/assets/7e6b6234-53bc-4a8b-87c4-948d0b49de64" width="600" /></td>
 <td><img src="https://github.com/user-attachments/assets/4b4f16b8-505a-4e14-b50b-f4e2e419c19d" width="600" /></td>
 <td><img src="https://github.com/user-attachments/assets/0f9fd643-4750-45e9-8e46-ef0a99b46bcb" width="600" /></td>
 
