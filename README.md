@@ -12,6 +12,7 @@ This repository includes two *diffractive-deep-optical-neural-networks* (D2NNs) 
 #### Reference
 
 D2NNs were first introduced by Ozcan et al. in the Science 2018 paper (https://www.science.org/doi/10.1126/science.aat8084), which established the framework of using trainable diffractive layers to implement deep optical neural networks.
+
 https://github.com/awsomecat/Diffractive-Deep-Neural-Network
 
 #### License
