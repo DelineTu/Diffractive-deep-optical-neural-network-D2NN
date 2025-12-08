@@ -14,5 +14,5 @@ This repository includes two *diffractive-deep-optical-neural-networks* (D2NNs) 
 https://github.com/awsomecat/Diffractive-Deep-Neural-Network
 
 #### License
-This project is licensed under the GNU General Public License v3.0.  
-A copy of this license is given in this repository as [license.txt]([https://github.com/DelineTu/Diffractive-deep-optical-neural-network-D2NN/blob/main/license.txt]).
+This project is licensed under the GNU General Public License v3.0. 
+A copy of this license is given in this repository as [license.txt]([[https://github.com/DelineTu/Diffractive-deep-optical-neural-network-D2NN/blob/main/license.txt](https://github.com/DelineTu/Diffractive-deep-optical-neural-network-D2NN/blob/main/LICENSE)]).
