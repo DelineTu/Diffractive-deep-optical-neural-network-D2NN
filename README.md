@@ -12,3 +12,7 @@ This repository includes two *diffractive-deep-optical-neural-networks* (D2NNs) 
 #### Reference
 
 https://github.com/awsomecat/Diffractive-Deep-Neural-Network
+
+#### License
+This project is licensed under the GNU GENERAL PUBLIC LICENSE v3.0.  
+See the LICENSE file for details.
